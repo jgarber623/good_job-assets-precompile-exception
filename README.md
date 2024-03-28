@@ -1,5 +1,7 @@
 # README
 
+A minimal standalone repository to reproduce an issue reported at https://github.com/bensheldon/good_job/issues/1302.
+
 Conditions:
 
 1. Ruby v3.1.4 (possibly unrelated)
